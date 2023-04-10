@@ -24,7 +24,7 @@ export class App extends Component {
   
   render() {
     // console.log(this.state)
-    const { good, bad, neutral } = this.state
+    // const { good, bad, neutral } = this.state
     return (
       <div
         style={{
